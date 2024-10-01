@@ -1,0 +1,140 @@
+| 1\. Descriptive Statistics                                                     |
+| ------------------------------------------------------------------------------ |
+|                                                                                |
+| Central Tendency: Mean, Median, Mode                                           |
+| Dispersion: Variance, Standard Deviation, Range, IQR                           |
+| Skewness & Kurtosis                                                            |
+| Data Visualization: Histograms, Box Plots, Scatter Plots, Heatmaps, Pair Plots |
+|                                                                                |
+| 2\. Probability Theory                                                         |
+|                                                                                |
+| Basic Probability Rules                                                        |
+| Conditional Probability & Bayes' Theorem                                       |
+| Random Variables: Discrete, Continuous                                         |
+| Distributions: Normal, Binomial, Poisson, Exponential, Gamma, Beta             |
+| Central Limit Theorem                                                          |
+| Copulas for Multivariate Distributions                                         |
+| Information Theory: Entropy                                                    |
+|                                                                                |
+| 3\. Inferential Statistics                                                     |
+|                                                                                |
+| Sampling Methods & Distributions                                               |
+| Hypothesis Testing: T-tests, Z-tests, Chi-Square, Fisher's Exact Test          |
+| p-values and Significance Levels                                               |
+| Confidence Intervals (t-Distribution, z-Distribution)                          |
+| Power of a Test, Effect Size                                                   |
+| A/B Testing, Sequential Testing                                                |
+| Multiple Comparisons: Bonferroni, Holm’s Method, False Discovery Rate (FDR)    |
+|                                                                                |
+| 4\. Regression Analysis                                                        |
+|                                                                                |
+| Simple & Multiple Linear Regression                                            |
+| Logistic Regression, Multinomial Logistic Regression                           |
+| Assumptions of Regression                                                      |
+| Regularization: Lasso, Ridge, Elastic Net                                      |
+| Quantile Regression, Polynomial Regression                                     |
+| Robust Regression: RANSAC, Huber Loss                                          |
+| Generalized Linear Models (GLM), Generalized Additive Models (GAM)             |
+|                                                                                |
+| 5\. Multivariate Analysis                                                      |
+|                                                                                |
+| Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA)         |
+| Factor Analysis, Canonical Correlation Analysis (CCA)                          |
+| t-SNE, UMAP, Multidimensional Scaling (MDS)                                    |
+| Partial Least Squares (PLS) Regression                                         |
+| Hierarchical Clustering                                                        |
+|                                                                                |
+| 6\. Time Series Analysis                                                       |
+|                                                                                |
+| Stationarity & Seasonality                                                     |
+| ARIMA, SARIMA, Exponential Smoothing, GARCH Models                             |
+| Vector Autoregression (VAR), State-Space Models, Kalman Filters                |
+| Time Series Decomposition (STL, Wavelet Transforms)                            |
+| Forecasting Techniques, LSTMs for Time Series                                  |
+|                                                                                |
+| 7\. Advanced Hypothesis Testing                                                |
+|                                                                                |
+| Bayesian Hypothesis Testing                                                    |
+| ANOVA, MANOVA                                                                  |
+| Permutation Tests, Non-Parametric Tests (Mann-Whitney U, Wilcoxon Signed-Rank) |
+|                                                                                |
+| 8\. Bayesian Statistics                                                        |
+|                                                                                |
+| Bayesian Inference, Conjugate Priors                                           |
+| Markov Chain Monte Carlo (MCMC)                                                |
+| Hierarchical Bayesian Models                                                   |
+| Variational Inference                                                          |
+| Bayesian Networks                                                              |
+| Bayesian Optimization                                                          |
+|                                                                                |
+| 9\. Resampling Techniques                                                      |
+|                                                                                |
+| Bootstrapping, Jackknife                                                       |
+| Permutation Resampling                                                         |
+| Cross-Validation (K-Fold, LOOCV, Stratified)                                   |
+| Nested Cross-Validation                                                        |
+|                                                                                |
+| 10\. Experimental Design                                                       |
+|                                                                                |
+| Randomized Controlled Trials (RCTs), Quasi-Experimental Designs                |
+| Block Design, Factorial Design                                                 |
+| Multilevel & Hierarchical Experimental Designs                                 |
+| Power Analysis, Sample Size Estimation                                         |
+| Adaptive Clinical Trials                                                       |
+|                                                                                |
+| 11\. Survival Analysis                                                         |
+|                                                                                |
+| Kaplan-Meier Curves, Cox Proportional Hazards Model                            |
+| Parametric Survival Models: Weibull, Exponential                               |
+| Competing Risks Models                                                         |
+| Accelerated Failure Time (AFT) Models                                          |
+|                                                                                |
+| 12\. Machine Learning Evaluation Metrics                                       |
+|                                                                                |
+| Confusion Matrix, Precision, Recall, F1 Score                                  |
+| ROC-AUC Curves, Logarithmic Loss, Cross-Entropy Loss                           |
+| RMSE, MAE for Regression                                                       |
+| Cohen’s Kappa, Matthews Correlation Coefficient (MCC)                          |
+| Gini Coefficient, Brier Score                                                  |
+|                                                                                |
+| 13\. Advanced Statistical Models                                               |
+|                                                                                |
+| Mixed-Effects Models                                                           |
+| Hidden Markov Models (HMM)                                                     |
+| Structural Equation Modeling (SEM)                                             |
+| Gaussian Processes                                                             |
+| Hierarchical Bayesian Models                                                   |
+|                                                                                |
+| 14\. Big Data Statistics                                                       |
+|                                                                                |
+| Subsampling Techniques                                                         |
+| Distributed Statistical Inference (MapReduce, Spark)                           |
+| Streaming Data Analytics                                                       |
+| Online Learning Algorithms                                                     |
+| Approximate Query Processing                                                   |
+|                                                                                |
+| 15\. Causal Inference                                                          |
+|                                                                                |
+| Difference-in-Differences (DiD)                                                |
+| Instrumental Variables (IV)                                                    |
+| Propensity Score Matching                                                      |
+| Causal Impact Analysis (Bayesian Structural Time Series)                       |
+|                                                                                |
+| 16\. Optimization Techniques in Statistics                                     |
+|                                                                                |
+| Gradient Descent, Stochastic Gradient Descent (SGD)                            |
+| Convex Optimization                                                            |
+| Lagrange Multipliers                                                           |
+| Simulated Annealing                                                            |
+|                                                                                |
+| 17\. Simulation Techniques                                                     |
+|                                                                                |
+| Monte Carlo Simulations                                                        |
+| Markov Chain Monte Carlo (MCMC)                                                |
+| Simulated Annealing                                                            |
+|                                                                                |
+| 18\. Ethics in Statistics and Data Science                                     |
+|                                                                                |
+| Bias & Fairness Metrics                                                        |
+| Transparency & Interpretability                                                |
+| Data Privacy: GDPR, CCPA Compliance                                            |
